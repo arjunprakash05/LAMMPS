@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/lammps/src/STUBS/mpi.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+stdint.h
+-
+sys/time.h
+-
+mpi.h
+-
+
+/lammps/src/STUBS/mpi.h
+stdlib.h
+-
+

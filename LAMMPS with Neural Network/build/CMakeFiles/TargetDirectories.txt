@@ -1,0 +1,8 @@
+/lammps/build/CMakeFiles/install/strip.dir
+/lammps/build/CMakeFiles/install/local.dir
+/lammps/build/CMakeFiles/mpi_stubs.dir
+/lammps/build/CMakeFiles/install.dir
+/lammps/build/CMakeFiles/lmp.dir
+/lammps/build/CMakeFiles/edit_cache.dir
+/lammps/build/CMakeFiles/rebuild_cache.dir
+/lammps/build/CMakeFiles/list_install_components.dir
